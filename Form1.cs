@@ -53,40 +53,44 @@ namespace Ejerecicio2
 
         private void btnDerecha_Click(object sender, EventArgs e)
         {
-            this.lst2.Items.Clear();
-            for (int i = 0; i < 12; i++)
+            if (this.lst1.SelectedIndex != -1)
             {
-                if (meses[i] == this.lst1.SelectedItem.ToString())
+                this.lst2.Items.Clear();
+                for (int i = 0; i < 12; i++)
                 {
-                    ubicacion[i] = this.lst1.SelectedItem.ToString();
+                    if (meses[i] == this.lst1.SelectedItem.ToString())
+                    {
+                        ubicacion[i] = this.lst1.SelectedItem.ToString();
+                    }
+                    if (ubicacion[i] != "")
+                    {
+                        this.lst2.Items.Add(ubicacion[i]);
+                    }
                 }
-                if (ubicacion[i] != "")
-                { 
-                     this.lst2.Items.Add(ubicacion[i]);
-                }
+                this.lst1.Items.RemoveAt(this.lst1.SelectedIndex);
+                lbl1.Text = this.lst2.Items.Count.ToString();
             }
-            this.lst1.Items.RemoveAt(this.lst1.SelectedIndex);
-            lbl1.Text=this.lst2.Items.Count.ToString();
         }
 
         private void btnIzq_Click(object sender, EventArgs e)
         {
-           
-            
-            this.lst1.Items.Clear();
-            for (int i = 0; i < 12; i++)
-            {
-                if (ubicacion[i] == this.lst2.SelectedItem.ToString())
-                {
-                    ubicacion[i] = "";
-                }
-                if(ubicacion[i] == "")
-                {
-                    this.lst1.Items.Add(meses[i].ToString());
-                }
-            }
-            this.lst2.Items.RemoveAt(this.lst2.SelectedIndex);
 
+            if (this.lst2.SelectedIndex != -1)
+            {
+                this.lst1.Items.Clear();
+                for (int i = 0; i < 12; i++)
+                {
+                    if (ubicacion[i] == this.lst2.SelectedItem.ToString())
+                    {
+                        ubicacion[i] = "";
+                    }
+                    if (ubicacion[i] == "")
+                    {
+                        this.lst1.Items.Add(meses[i].ToString());
+                    }
+                }
+                this.lst2.Items.RemoveAt(this.lst2.SelectedIndex);
+            }
         }
 
         private void btnAllIzq_Click(object sender, EventArgs e)
