@@ -1,0 +1,10 @@
+D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2\bin\Debug\Ejerecicio2.exe.config
+D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2\bin\Debug\Ejerecicio2.exe
+D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2\bin\Debug\Ejerecicio2.pdb
+D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2\obj\Debug\Ejerecicio2.csprojAssemblyReference.cache
+D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2\obj\Debug\Ejerecicio2.Form1.resources
+D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2\obj\Debug\Ejerecicio2.Properties.Resources.resources
+D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2\obj\Debug\Ejerecicio2.csproj.GenerateResource.cache
+D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2\obj\Debug\Ejerecicio2.csproj.CoreCompileInputs.cache
+D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2\obj\Debug\Ejerecicio2.exe
+D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2\obj\Debug\Ejerecicio2.pdb
