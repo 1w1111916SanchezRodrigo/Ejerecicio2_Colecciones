@@ -18,3 +18,4 @@ D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\
 D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2_Colecciones\obj\Debug\Ejerecicio2.csproj.CoreCompileInputs.cache
 D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2_Colecciones\obj\Debug\Ejerecicio2.exe
 D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2_Colecciones\obj\Debug\Ejerecicio2.pdb
+D:\Rodri\Tecnicatura en Programacion\2do Cuatrimestre\Programacion 2\Ejercicios\Clase1\Ejerecicio2_Colecciones\obj\Debug\Ejerecicio2.frmEmpleados.resources
